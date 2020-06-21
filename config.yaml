@@ -1,0 +1,22 @@
+prefix: "#"
+servers:
+    -   name: test
+        ip: 127.0.0.1
+        port: 25575
+        ops:  [
+            23,
+            123123,
+            2
+        ]
+    -   name: test2
+        ip: 127.0.0.1
+        port: 25576
+        ops:  [
+            2
+        ]
+    -   name: test3
+        ip: 127.0.0.1
+        port: 25577
+        ops:  [
+            2
+        ]
